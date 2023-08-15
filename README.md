@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ashleyw2444
+- 👋 Hi, I’m Ashley Wu.
 - 👀 I’m interested in learning new programming languages and coding concepts!
-- 🌱 I’m currently learning Object Oriented Programming with Python, and I'm beginning to learn some Java.
-- 💞️ I’m looking to collaborate on: N/A for now
+- 🌱 I’m currently learning Data Structures in Java and working on an AI Machine Learning team project using Python through the Break Through Tech AI Program.
+- 💞️ I’m looking to collaborate on: Interesting projects in different CS subfields.
 - 📫 How to reach me: ashleyw2444@gmail.com
 
 <!---
